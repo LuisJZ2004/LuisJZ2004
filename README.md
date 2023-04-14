@@ -7,7 +7,7 @@ My way in programming is just starting yet, I keep learning, reading and studyin
     SKILLS = {
     	"Lenguages": (
     		"Python",
-            "SQL",
+			"SQL",
     		"Java",
     		"C++",
     	)
