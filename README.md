@@ -5,8 +5,9 @@ Hi, I am Luis Eduardo. I'm a Venezuelan Backend developer who has been studying 
 My way in programming is just starting yet, I keep learning, reading and studying new skills everyday, as well as sharing my expirience with the rest of the world.
 
     SKILLS = {
-    	"Programming lenguages": (
+    	"Lenguages": (
     		"Python",
+            "SQL",
     		"Java",
     		"C++",
     	)
