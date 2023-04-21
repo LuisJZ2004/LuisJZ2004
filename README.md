@@ -5,19 +5,19 @@ Hi, I am Luis Eduardo. I'm Backend developer who has been studying and working w
 My way in programming is just starting yet, I keep learning, reading and studying new skills everyday, as well as sharing my expirience with the rest of the world.
 
     SKILLS = {
-    	"Lenguages": (
-    		"Python",
-			"SQL",
-    		"Java",
-    		"C++",
-    	)
-    	"Frameworks": (
-    		"Django",
-    		"Django Rest Framework",
-    	)
-    	"Others": (
-    		"HTML",
-    		"CSS",
-		"Scrum",
-    	)
+	"Lenguages": (
+		"Python",
+		"SQL",
+		"Java",
+		"C++",
+	)
+	"Frameworks": (
+		"Django",
+		"Django Rest Framework",
+	)
+	"Others": (
+		"HTML",
+		"CSS",
+		"Scrum"
+	)
     }
