@@ -18,6 +18,6 @@ My way in programming is just starting yet, I keep learning, reading and studyin
     	"Others": (
     		"HTML",
     		"CSS",
-		"Scrum"
+		"Scrum",
     	)
     }
